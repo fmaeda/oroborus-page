@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
+    "main.css": "/static/css/main.9dd6a906.chunk.css",
     "main.js": "/static/js/main.ee39b109.chunk.js",
     "main.js.map": "/static/js/main.ee39b109.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cd553e58.js",
@@ -10,14 +10,14 @@
     "static/js/3.fd31e2a3.chunk.js": "/static/js/3.fd31e2a3.chunk.js",
     "static/js/3.fd31e2a3.chunk.js.map": "/static/js/3.fd31e2a3.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
+    "static/css/main.9dd6a906.chunk.css.map": "/static/css/main.9dd6a906.chunk.css.map",
     "static/js/2.06adfd05.chunk.js.LICENSE.txt": "/static/js/2.06adfd05.chunk.js.LICENSE.txt",
     "static/media/oroborus-light.3d8efa93.png": "/static/media/oroborus-light.3d8efa93.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cd553e58.js",
     "static/js/2.06adfd05.chunk.js",
-    "static/css/main.a617e044.chunk.css",
+    "static/css/main.9dd6a906.chunk.css",
     "static/js/main.ee39b109.chunk.js"
   ]
 }
